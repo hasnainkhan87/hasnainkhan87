@@ -121,11 +121,11 @@ They're built by **understanding the systems underneath them.**
 
 Working on technical initiatives, workshops, events and community building while helping students explore technology beyond the classroom.
 
-### Wiki Club Tech — NMAMIT
+### NSS IT WING — NMAMIT
 
-**Core Team / Event Head**
+**Event Head**
 
-Contributing to open knowledge, technology awareness and technical events within the student community.
+Leading the planning, coordination, and execution of technical events under the NSS IT Wing, driving innovative initiatives, managing teams, and creating engaging technology-focused experiences for students.
 
 ---
 
@@ -141,7 +141,7 @@ Contributing to open knowledge, technology awareness and technical events within
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasnainkhan87&hide_border=true" />
 </p>
 
 ---
@@ -185,6 +185,4 @@ I'm always interested in:
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
+
