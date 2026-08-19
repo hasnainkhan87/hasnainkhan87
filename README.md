@@ -72,16 +72,17 @@ An AI-powered chemistry assistant combining **LLMs, RAG and interactive 3D molec
 
 ---
 
-### 📚 Placement Preparation Hub
+### 🗄️ Municipal Corporation Complaint Management System
+A database-driven full-stack web application designed to manage civic complaints, assign officers, and track resolutions efficiently.
 
-A web platform designed to help students prepare for placements through organized learning resources.
+**Tech:** `SQLite` `Node.js` `Express.js` `React.js` `EmailJS` `bcrypt`
 
-**Tech:** `React` `CSS` `JavaScript`
-
-* Categorized placement resources
-* Bookmarking system using LocalStorage
-* Clean and accessible UI
-* Designed around student placement workflows
+- Designed and implemented a relational database with 5 normalized tables: users, admins, complaints, admin_complaints and engineers
+- Created structured table relationships using foreign keys between complaints and admin_complaints for complaint tracking and resolution
+- Implemented SQL queries including JOIN, UPDATE, DELETE and SELECT with WHERE filters for role-based and officer-specific data retrieval
+- Built RESTful API endpoints for full database operations — create, read, update and delete across all tables
+- Focused on data integrity with constraints like UNIQUE email, DEFAULT values, NOT NULL fields and two-step deletion for referential integrity
+- Integrated OTP-based email verification and bcrypt password hashing for secure user authentication and account management
 
 ---
 
