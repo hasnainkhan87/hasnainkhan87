@@ -140,8 +140,23 @@ Leading the planning, coordination, and execution of technical events under the 
 
 ## 📈 Contribution Graph
 
+## 🕹️ Contribution Arcade
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasnainkhan87&hide_border=true" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/hasnainkhan87/hasnainkhan87/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/hasnainkhan87/hasnainkhan87/output/pacman-contribution-graph.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/hasnainkhan87/hasnainkhan87/output/pacman-contribution-graph.svg"
+      alt="Pac-Man Contribution Graph"
+    />
+  </picture>
 </p>
 
 ---
